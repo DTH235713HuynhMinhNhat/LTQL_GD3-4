@@ -103,7 +103,7 @@
             btnHuy.FlatStyle = FlatStyle.Flat;
             btnHuy.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
             btnHuy.ForeColor = Color.White;
-            btnHuy.Location = new Point(543, 170);
+            btnHuy.Location = new Point(540, 170);
             btnHuy.Name = "btnHuy";
             btnHuy.Size = new Size(90, 40);
             btnHuy.TabIndex = 9;
