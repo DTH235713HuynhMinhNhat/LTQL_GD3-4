@@ -19,7 +19,7 @@ namespace QuanLyCuaHangVanPhongPham.Forms
             LoadData();
             SetControlState(false);
         }
-
+                           
         private void LoadData()
         {
             try
