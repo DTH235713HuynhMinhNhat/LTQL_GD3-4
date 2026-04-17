@@ -37,7 +37,7 @@ namespace QuanLyCuaHangVanPhongPham.Forms
                 dt.Rows.Add("NCC02", "Công ty VPP Hồng Hà", "02436522222", "Quận Hai Bà Trưng, Hà Nội");
                 dt.Rows.Add("NCC03", "Nhà Phân Phối Deli VN", "19008866", "Quận 1, TP.HCM");
                 dgvNhaCungCap.DataSource = dt;
-            }
+            }                       
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi: " + ex.Message);
